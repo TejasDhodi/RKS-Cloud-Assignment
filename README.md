@@ -43,7 +43,7 @@ The **MERN Employee Management Dashboard** is a web application designed to mana
     ```
 4. Start the backend server:
     ```bash
-    npm run server
+    npm run dev
     ```
 
 ### Frontend
@@ -57,7 +57,7 @@ The **MERN Employee Management Dashboard** is a web application designed to mana
     ```
 3. Start the frontend development server:
     ```bash
-    npm start
+    npm run dev
     ```
     
 ## Contributing
