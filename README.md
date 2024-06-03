@@ -30,8 +30,7 @@ The **MERN Employee Management Dashboard** is a web application designed to mana
 ### Backend
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mern-employee-dashboard.git
-    cd mern-employee-dashboard
+    git clone [https://github.com/your-username/mern-employee-dashboard.git](https://github.com/TejasDhodi/RKS-Cloud-Assignment.git)
     ```
 2. Install dependencies:
     ```bash
